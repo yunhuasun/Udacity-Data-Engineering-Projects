@@ -17,5 +17,6 @@ The project follows the follow steps:
 * Step 4: Run ETL to Model the Data
 * Step 5: Complete Project Write Up
 
-![alt text]([http://url/to/img.png](https://github.com/yunhuasun/Udacity-Data-Engineering-Projects/blob/0ded84be110148352243715e7297a2a4c3d21f6d/Data%20Model.jpg))
 
+
+![Data Model](https://github.com/yunhuasun/Udacity-Data-Engineering-Projects/blob/9e82d6a2a0aa1373543497b51c9f7020290b03a7/Data%20Model.jpg)

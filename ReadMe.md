@@ -22,4 +22,4 @@
 * PySpark - data processing on large data set
 
 #### Conceptual Data Model
-![Data Model](https://github.com/yunhuasun/Udacity-Data-Engineering-Projects/blob/9e82d6a2a0aa1373543497b51c9f7020290b03a7/Data%20Model.jpg)
+![Data Model](https://github.com/yunhuasun/Udacity-Data-Engineering-Projects/blob/db9e788a3ca9a19762f1d5a1f45175384a4b6a50/Data%20Model.png)
